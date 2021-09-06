@@ -76,6 +76,7 @@ const App: React.FC = ({currencies = []}) => {
 
 
 
+
     return (
         <ThemeProvider theme={Theme}>
             <Nav/>
