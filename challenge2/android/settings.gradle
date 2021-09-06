@@ -1,7 +1,0 @@
-<<<<<<< HEAD:challengeMobile/android/settings.gradle
-rootProject.name = 'challengeMobile'
-=======
-rootProject.name = 'challenge2'
->>>>>>> 7f85bdf9421e5c6f653941cae2ee1a909f63b7f0:challenge2/android/settings.gradle
-apply from: file("../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesSettingsGradle(settings)
-include ':app'
