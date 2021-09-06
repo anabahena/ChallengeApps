@@ -7,7 +7,7 @@ import {
 } from 'react-native';
 import Context from "./Context";
 
-const Home: React.FC = ({currencies = []}) => {
+const Header: React.FC = () => {
     const {theme, setTheme} = useContext(Context);
 
 
@@ -46,4 +46,4 @@ const Home: React.FC = ({currencies = []}) => {
     );
 };
 
-export default Home;
+export default Header;

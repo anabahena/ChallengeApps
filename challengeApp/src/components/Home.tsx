@@ -7,7 +7,7 @@ import {
   Image,
 } from 'react-native';
 import Context from './App/Context';
-const Home: React.FC = ({currencies = []}) => {
+const Home: React.FC = () => {
     const data = [
         {
             type: 'bitcoin',
@@ -73,7 +73,7 @@ const Home: React.FC = ({currencies = []}) => {
                 value,
                 color: sameColor ? theme !== 'light' ? '#000' : '#fff' : color ? 'green' : 'red',
                 percent: calcPercent,
-                background: sameColor ? theme !== 'light' ? '#000' : '#fff' : color ? '#00BA2980' : '#D7004D80',
+                background: sameColor ? '#000' : color ? '#00BA2980' : '#D7004D80',
             })
         });
         setInterval(() => setNewData([...newData]), 1500);

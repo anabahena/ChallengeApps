@@ -2,30 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aec2683a-2458-42bc-aea8-3d33a03204bf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ChallengeCoin.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/challenge-app/src/components/App/Context.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/challengeApp/src/assets/images/bitcoin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/challengeApp/src/assets/images/ethereum.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/challengeApp/src/assets/images/litecoin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/challengeApp/src/assets/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/challengeApp/src/assets/images/monero.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/challengeApp/src/components/App/Context.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/challengeApp/src/components/App/Header.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/challengeApp/src/components/App/theme.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/challengeApp/src/components/App/useDebounce.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/challengeApp/src/components/Home.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/challengeApp/src/components/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/challenge-app/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-app/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/challenge-app/ios/Podfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/challenge-app/ios/Podfile.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/challenge-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-app/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/challenge-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-app/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/challenge-app/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-app/yarn.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/challenge-web/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/challenge-web/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challengeApp/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/challengeApp/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challengeApp/src/components/App/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/challengeApp/src/components/App/Header.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challengeApp/src/components/App/theme.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/challengeApp/src/components/App/theme.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challengeApp/src/components/App/useDebounce.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/challengeApp/src/components/Home.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/challengeApp/src/components/Home.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +46,9 @@
       <recent name="$PROJECT_DIR$/challenge-app/src/components/App" />
       <recent name="$PROJECT_DIR$/challenge-app/src/assets" />
       <recent name="$PROJECT_DIR$/challenge-app/src/components" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/challengeApp/android" />
     </key>
   </component>
   <component name="RunManager" selected="npm.ios">
@@ -104,7 +89,7 @@
       <updated>1630892000195</updated>
       <workItem from="1630892001286" duration="18403000" />
       <workItem from="1630934457263" duration="166000" />
-      <workItem from="1630934674980" duration="3900000" />
+      <workItem from="1630934674980" duration="5121000" />
     </task>
     <servers />
   </component>
